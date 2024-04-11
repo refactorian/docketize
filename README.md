@@ -13,9 +13,7 @@
 # What is Docket?
 [Docket](https://github.com/refactorian/docket) - Hugo Documentation Theme | [Live Preview](https://refactorian.github.io/docket)
 
-Introducing Docket, your ultimate companion for creating exceptional documentation with ease. Built upon the solid foundation of the [Book](https://github.com/alex-shpak/hugo-book) theme, Docket combines sleek design with robust functionality, ensuring that your documentation projects stand out from the crowd. This awesome theme is tailored specifically for Hugo, ensuring seamless integration and optimal performance.
-
-Our goal? To enrich your documentation experience with more features and customization options, empowering you to tailor your content to perfection. Whether you're creating technical guides, tutorials, or project documentation, Docket streamlines the process, allowing your content to shine effortlessly. Simplify your documentation journey and unlock the full potential of your content with Docket, your trusted companion for crafting exceptional documentation.
+Docket is your ultimate companion for creating exceptional documentation with ease. Docket combines sleek design with robust functionality, ensuring that your documentation projects stand out from the crowd. This awesome theme is tailored specifically for Hugo, ensuring seamless integration and optimal performance.
 
 ## Features
 
