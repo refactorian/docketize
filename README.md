@@ -1,13 +1,14 @@
 <p align="center"><img src="https://gohugo.io/images/hugo-logo-wide.svg" width="500"></p>
 
 # Docketize
-- Docket v1.0 ([Hugo Theme](https://github.com/refactorian/docket))
+- Docket v1.x ([Hugo Theme](https://github.com/refactorian/docket))
 
 # Requirements
 - Hugo v0.112.0 or higher, [Installation Instructions](https://gohugo.io/installation/)
 
 # How To Deploy
 - `git clone --recurse-submodules https://github.com/refactorian/docketize.git`
+- `cd docketize`
 - `hugo server`
 
 # What is Docket?
