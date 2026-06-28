@@ -20,7 +20,7 @@ markup:
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 languages:
   en:
-    languageName: English
+    label: English
     contentDir: content.en
     weight: 1
 
